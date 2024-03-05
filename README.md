@@ -13,3 +13,4 @@ The Job Search App helps users find job opportunities based on their preferences
 - Save favorite job listings for later viewing
 - Apply filters to narrow down job search results
 - User authentication and profile management
+:)
